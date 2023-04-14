@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
+title: Shashvat Shah
 description: This is my personal webpage.
 github_username: shashvatshah9
 
 # Email and twitter are optional:
-email: shashvat911@gmail.com; sss9772@nyu.edu
+email: shashvat911@gmail.com sss9772@nyu.edu
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
