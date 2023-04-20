@@ -1,5 +1,5 @@
 Hello 👋🏻 and welcome to my personal webpage. 
-<details>
+<details open>
   <summary>Personal and Academic Projects ⚙️</summary>
 <ol>
   <li>
