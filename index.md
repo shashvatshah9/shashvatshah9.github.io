@@ -3,6 +3,13 @@ Hello 👋🏻 and welcome to my personal webpage.
   <summary>Personal and Academic Projects ⚙️</summary>
 <ol>
   <li>
+    <b> Benchmarking and Training image classification model Resnet-18 on varying compute configurations </b> <br/>
+    Developed a modified Resnet-18 using PyTorch without Batch Normalization layers, and trained it on the
+    CIFAR10 dataset. The training was done using different machines on the NYU Greene super compute with
+    different numbers of CPU and GPU cores, and also fine-tuning hyperparameters like the number of
+    Dataloader workers and optimizers.
+  </li>
+  <li>
     <b> Multi-Lingual Review Classification and Inference using Transformers </b> <br/>
     Developed and deployed a text classification model using Hugging Face Transformers, using a multi-lingual
     text dataset containing real-life product reviews from Amazon.com. The model was deployed on the Hugging
@@ -13,6 +20,12 @@ Hello 👋🏻 and welcome to my personal webpage.
     Developed an Andriod chat application with GCP Firebase backend. This application supported single and group
     conversations, with real time firebase message delivery. This application was a lite application which could be easily
     integrated into other android applications.
+  </li>
+  <li>
+    <b>Cognitive Computing – Idea Labs, Nirma University</b> <br/>
+     Created a system that calibrated brain waves from an EEG headset to determine the recall ability of a person while
+    performing a forced choice memory test on flags images. The recall of images was predicted on time series data using
+    LSTM RNN. The precision of this classifier of this one of a kind test was around 0.7.
   </li>
   <li>
   <b>Adaptive Video Player </b> <br/>
