@@ -1,3 +1,1 @@
-# Your blog
-
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+[![Shashvat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashvatshah9)](https://https://shashvatshah9.github.io/)
