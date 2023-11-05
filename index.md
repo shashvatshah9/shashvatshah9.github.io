@@ -1,4 +1,3 @@
-Hello 👋🏻 and welcome to my personal webpage. 
 <details open>
   <summary>Personal and Academic Projects ⚙️</summary>
 <ol>
