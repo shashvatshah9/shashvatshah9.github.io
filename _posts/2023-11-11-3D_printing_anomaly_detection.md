@@ -7,10 +7,10 @@ So before I could apply any kind of Computer Vision algorithm to this Dataset, s
 Here is some of the information that I was able to capture and visualize. 
 ## EDA
 First, we checked the class weightage, which turned out that it wasn't imbalanced. 
-![](https://github.com/shashvatshah9/shashvatshah9.github.io/blob/master/images/__results___6_0.png "Pie Chart")
+![](/assets/images/__results___6_0.png "Pie Chart")
 
 Secondly, we need to check if extrusion is related to a specific kind of printer, i.e. if there is any correlation of the printer with the extrusion caused. As some particular kind of printers might be more susceptible to extrusion.
-![](https://github.com/shashvatshah9/shashvatshah9.github.io/blob/master/images/__results___8_1.png "Distribution of images per printer")
+![](/assets/images/__results___8_1.png "Distribution of images per printer")
 
 ## Baseline CNN
 Once, we have analysed this data, we can create a simple CNN classifier to check how well it performs. But, there is still one minor issue, all the images are not of the same resolution. So, these images need to be transformed in the pre-processing stage into the same resolution size, before we can process them. Since I'm using PyTorch, I will use Pytorch's image transformation utils to preprocess the image.
@@ -23,7 +23,7 @@ img_transforms.append(transforms.Resize((400,400), interpolation=transforms.Inte
 
 We apply the first 2 transform to make the model invariant of the image orientation and angle. For the final transform, I resized the image to 400x400 size to make the dataset consistent. I experimented with different models like VGG16 and ResNet18 to get some baseline results. Below I'm sharing the training classification report, which indicates a good F1 score, the metric based on which models were compared.
 
-![](https://github.com/shashvatshah9/shashvatshah9.github.io/blob/master/images/__results___9_0.png "Classification report")
+![](/assets/images/__results___9_0.png "Classification report")
 
 ## Vision transformers
 Based on these results, I was interested in implementing the vision transformer model, as in the papers cited by the competition as reference papers mentioned the use of vision transformers performing better than CNN models. So I used a pertrained vision transformer with a trainable classification layer to perform the classification task.
