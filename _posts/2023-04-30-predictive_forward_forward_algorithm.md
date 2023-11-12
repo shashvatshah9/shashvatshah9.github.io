@@ -1,9 +1,12 @@
+# Notes on Predictive Forward-Forward Paper
+
 **Predictive Forward-Forward Learning**
-[Link to the paper](https://arxiv.org/abs/2301.01452)
 
 Predictive forward-forward learning (PFF) is a brain-inspired credit assignment process that can be used for both forward-forward based learning and predictive processing. It is based on the idea that the brain learns by predicting the future and then using the error between the prediction and the actual outcome to adjust its synaptic weights.
 
 PFF has been shown to outperform traditional backpropagation-based learning methods on a variety of tasks, including language modeling, image classification, and reinforcement learning. It is also more computationally efficient than backpropagation, making it a promising approach for training large neural networks.
+
+[Link to the paper](https://arxiv.org/abs/2301.01452)
 
 **Key Features of PFF**
 
