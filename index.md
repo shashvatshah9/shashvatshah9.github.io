@@ -1,4 +1,4 @@
-<details open>
+<details>
   <summary>Personal and Academic Projects ⚙️</summary>
 <ol>
   <li>
