@@ -18,7 +18,8 @@ However, the forward-forward algorithm is somewhat slower than backpropagation a
 Overall, the forward-forward algorithm is a promising alternative to backpropagation, but it is still under development and there are some limitations to its performance. Further research is needed to determine its full potential.
 
 Having seen it's promising results, and lack of conclusive evidence that it scales better on larger datasets and the kindof architecture that's best, we've developed a library which helps easily scalable Forward Forward network which is compatible with other PyTorch components.
-Code: https://github.com/shashvatshah9/FFPytorch
+Code: [github source](https://github.com/shashvatshah9/FFPytorch)
+Project summary: [project summary](https://github.com/shashvatshah9/shashvatshah9.github.io/blob/master/assets/dl_final_project_report.pdf)
 
 References:
 1. https://github.com/mohammadpz/pytorch_forward_forward
