@@ -48,10 +48,9 @@ This gross sensitivity measures the maximum influence a small amount of contamin
 
 References
 1] Ronchetti E. M. Rousseeuw P. J. Hampel F. R. and Stahel. Robust Statistics: The Approach Based on Influence
-Functions. Wiley, 1986.
-ON INFLUENCE FUNCTIONS AND ADVERSARIAL TRAINING 7
-[2] Pang Wei Koh and Percy Liang. Understanding black-box predictions via influence functions, 2020.
+Functions. Wiley, 1986. \
+[2] Pang Wei Koh and Percy Liang. Understanding black-box predictions via influence functions, 2020.\
 [3] F.R. Hampel ̇The Influence Curve and Its Role in Robust Estimation. Journal of the American Statistical Associ-
-ation, 1974
+ation, 1974\
 [4] Jia Li and Andrew W. Moore. Model selection in kernel based regression using the influence function(special topic
 on model selection). Journal of Machine Learning Research, 9
