@@ -13,8 +13,7 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 # Site Settings
 locale: "en-US"
 title: "Shashvat Shah"
-subtitle: "Personal Blog"
-name: "Shashvat Shah"
+name: "Blog"
 description: "Blog"
 url: "https://shashvatshah9.github.io"
 repository: "shashvatshah9/shashvatshah9.github.io"
@@ -25,7 +24,7 @@ search: true
 author:
   name: "Shashvat Shah"
   avatar: "assets/images/bio-photo.jpg" # Add your photo to assets/images/
-  bio: "Quant | Software Engineer | ML Engineer"
+  bio: "Quant | ML Engineer"
   location: "United States"
   links:
     - label: "GitHub"
@@ -58,7 +57,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: false
       share: true
