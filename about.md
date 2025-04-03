@@ -7,9 +7,7 @@ toc: true
 toc_sticky: true
 ---
 
-# About
-
-I'm a Grad student at NYU Tandon pursuing a Masters's degree in Computer Engineering with a focus on Deep Learning and High Performance Machine Learning. I'm passionate and driven about software engineering, software architecture, and overall software product management.
+I'm passionate and driven about software engineering, software architecture, and overall software product management.
 
 <details open>
   <summary>Personal and Academic Projects ⚙️</summary>
@@ -71,33 +69,28 @@ I'm a Grad student at NYU Tandon pursuing a Masters's degree in Computer Enginee
 - Python
 - JavaScript/TypeScript
 - Java
-- [Add more languages]
 
 ### Web Technologies
 - React.js
 - Node.js
 - HTML5/CSS3
-- [Add more web technologies]
 
 ### Tools & Platforms
 - Git/GitHub
 - Docker
 - AWS
-- [Add more tools]
 
 ### Databases
 - PostgreSQL
 - MongoDB
 - Redis
-- [Add more databases]
 
 ### Other Skills
 - Agile/Scrum
 - CI/CD
 - System Design
-- [Add more skills]
 
-## Certifications
+<!-- ## Certifications
 
 - [Certification Name] - [Issuing Organization] (Year)
 - [Another Certification] - [Issuing Organization] (Year)
@@ -121,4 +114,4 @@ I'm a Grad student at NYU Tandon pursuing a Masters's degree in Computer Enginee
 **Position:** [Your Role]
 - Achievement 1
 - Achievement 2
-
+ -->
