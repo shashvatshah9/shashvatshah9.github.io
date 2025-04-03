@@ -8,12 +8,12 @@
 
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
 title: "Shashvat Shah"
-subtitle: "Personal Website"
+subtitle: "Personal Blog"
 name: "Shashvat Shah"
 description: "Personal website and blog"
 url: "https://shashvatshah9.github.io"
@@ -25,7 +25,7 @@ search: true
 author:
   name: "Shashvat Shah"
   avatar: "assets/images/bio-photo.jpg" # Add your photo to assets/images/
-  bio: "Software Engineer"
+  bio: "Quant | Software Engineer | ML Engineer"
   location: "United States"
   links:
     - label: "GitHub"
@@ -39,7 +39,7 @@ author:
       url: "mailto:shashvat911@gmail.com"
 
 # Site Footer
-footer: "&copy; 2024 Shashvat Shah"
+footer: "&copy; 2025 Shashvat Shah"
 
 # Plugins
 plugins:
