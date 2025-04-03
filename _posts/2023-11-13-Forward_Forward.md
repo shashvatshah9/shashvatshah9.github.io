@@ -2,7 +2,7 @@
 layout: single
 title: "Notes on Forward Forward Algorithm"
 date: 2023-11-13
-author_profile: true
+author_profile: false
 ---
 
 # Notes on Forward Forward Algorithm
@@ -15,7 +15,7 @@ It is based on the idea of replacing the forward and backward passes of backprop
 
 However, the forward-forward algorithm is somewhat slower than backpropagation and does not generalize as well to new data. Overall, it is a promising alternative to backpropagation, but further research is needed to determine its full potential.
 
-**Here are some additional insights from the sources:**
+## Additional insights from the sources
 
 * The forward-forward algorithm works well in relatively small networks, but it does not scale well to large networks.
 * The forward-forward algorithm is more efficient than backpropagation, but it is also more computationally expensive.
@@ -28,6 +28,6 @@ Having seen it's promising results, and lack of conclusive evidence that it scal
 Code: [github source](https://github.com/shashvatshah9/FFPytorch)
 Project summary: [project summary](/assets/dl_final_project_report.pdf)
 
-References:
+## References
 1. https://github.com/mohammadpz/pytorch_forward_forward
 2. Geoffrey Hinton's talk at NeurIPS 2022.
