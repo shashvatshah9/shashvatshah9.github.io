@@ -1,3 +1,4 @@
+# Influence Functions
 ## Introduction
 It's a classic technique from robust statistics (1), to understand and improve machine learning models. By tracing a model's prediction back to its training data, influence functions determine the training points most responsible for a given prediction. This information can be used to improve the model by selecting and removing noisy or irrelevant data and to debug models by identifying errors in the training data or the model's assumptions. Overall, influence functions are a powerful tool for understanding and improving machine learning models (2). They are relatively easy to compute and can be used with linear and non-linear models, making them increasingly popular in machine learning research and practice. 
 
