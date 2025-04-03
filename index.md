@@ -6,7 +6,7 @@ author_profile: true
 
 ## About Me
 
-[Read more about me](/about.html)
+[Read more about me](/about)
 
 ## Recent Posts
 

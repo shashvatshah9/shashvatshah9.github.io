@@ -1,3 +1,12 @@
+---
+layout: single
+title: "About Me"
+permalink: /about/
+author_profile: true
+toc: true
+toc_sticky: true
+---
+
 # About
 
 I'm a Grad student at NYU Tandon pursuing a Masters's degree in Computer Engineering with a focus on Deep Learning and High Performance Machine Learning. I'm passionate and driven about software engineering, software architecture, and overall software product management.
