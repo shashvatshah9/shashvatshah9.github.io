@@ -34,7 +34,7 @@ I'm a Grad student at NYU Tandon pursuing a Masters's degree in Computer Enginee
   <b>Adaptive Video Player </b> <br/>
     Developed a web application that recognized student behavior while studying from video lectures. Data is streamed from
     an EEG headset, eye position from a camera (using OpenCV), and heart rate from a sensor to NoSQL database. And,
-    Based on this data, an algorithm was designed to calibrate the student’s attention level and using javascript the playback
+    Based on this data, an algorithm was designed to calibrate the student's attention level and using javascript the playback
     speed of the web video player was adapted.
   </li>
 </ol>
@@ -53,4 +53,63 @@ I'm a Grad student at NYU Tandon pursuing a Masters's degree in Computer Enginee
   </li>
 </ol>
 </details>
+
+## Professional Background
+
+## Skills
+
+### Programming Languages
+- Python
+- JavaScript/TypeScript
+- Java
+- [Add more languages]
+
+### Web Technologies
+- React.js
+- Node.js
+- HTML5/CSS3
+- [Add more web technologies]
+
+### Tools & Platforms
+- Git/GitHub
+- Docker
+- AWS
+- [Add more tools]
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Redis
+- [Add more databases]
+
+### Other Skills
+- Agile/Scrum
+- CI/CD
+- System Design
+- [Add more skills]
+
+## Certifications
+
+- [Certification Name] - [Issuing Organization] (Year)
+- [Another Certification] - [Issuing Organization] (Year)
+
+## Education
+
+- **Degree Name** - University Name (Year)
+  - Relevant coursework: [Course 1], [Course 2], [Course 3]
+  - GPA: [Your GPA]
+  - Notable achievements: [Achievement 1], [Achievement 2]
+
+## Experience
+
+### [Company Name] (Year - Present)
+**Position:** [Your Role]
+- Achievement 1
+- Achievement 2
+- Achievement 3
+
+### [Previous Company] (Year - Year)
+**Position:** [Your Role]
+- Achievement 1
+- Achievement 2
 
