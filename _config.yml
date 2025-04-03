@@ -12,9 +12,8 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "en-US"
-title: "Shashvat Shah"
+title: "Blog"
 name: "Blog"
-description: "Blog"
 url: "https://shashvatshah9.github.io"
 repository: "shashvatshah9/shashvatshah9.github.io"
 logo: "assets/images/logo.png" # Add your logo image to assets/images/
@@ -23,7 +22,6 @@ search: true
 # Site Author
 author:
   name: "Shashvat Shah"
-  avatar: "assets/images/bio-photo.jpg" # Add your photo to assets/images/
   bio: "Quant | ML Engineer"
   location: "United States"
   links:
