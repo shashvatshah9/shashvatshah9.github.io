@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Notes on Forward Forward Algorithm"
+date: 2023-11-13
+author_profile: true
+---
+
 # Notes on Forward Forward Algorithm
 The forward-forward algorithm is a novel method for training neural networks as an alternative to backpropagation.
 
