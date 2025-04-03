@@ -3,11 +3,6 @@ layout: home
 author_profile: true
 ---
 
-
-## About Me
-
-[Read more about me](/about)
-
 ## Recent Posts
 
 {% for post in paginator.posts %}
