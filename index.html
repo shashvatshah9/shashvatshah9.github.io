@@ -1,0 +1,16 @@
+---
+layout: home
+author_profile: true
+---
+
+# Welcome to My Website
+
+I'm a Software Engineer passionate about building innovative solutions. This website serves as my digital portfolio and blog where I share my thoughts, projects, and experiences.
+
+## Recent Posts
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %} 

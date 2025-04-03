@@ -6,9 +6,83 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Shashvat Shah
-description:
-github_username: shashvatshah9
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale: "en-US"
+title: "Shashvat Shah"
+subtitle: "Personal Website"
+name: "Shashvat Shah"
+description: "Personal website and blog"
+url: "https://shashvatshah9.github.io"
+repository: "shashvatshah9/shashvatshah9.github.io"
+logo: "assets/images/logo.png" # Add your logo image to assets/images/
+search: true
+
+# Site Author
+author:
+  name: "Shashvat Shah"
+  avatar: "assets/images/bio-photo.jpg" # Add your photo to assets/images/
+  bio: "Software Engineer"
+  location: "United States"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/shashvatshah9"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/shashvatshah9"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:shashvat911@gmail.com"
+
+# Site Footer
+footer: "&copy; 2024 Shashvat Shah"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-octicons
+  - jekyll-github-metadata
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      show_date: true
+      show_categories: true
+      show_tags: true
+      toc: true
+      toc_sticky: true
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+sitemap: true
+search: true
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-9BF0FZG60D"
+    anonymize_ip: true
 
 # Email and twitter are optional:
 email: shashvat911@gmail.com
@@ -23,11 +97,6 @@ baseurl: ""
 url: 'https://shashvatshah9.github.io/'
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-github-metadata
 
 titles_from_headings:
   enabled:     true
@@ -35,7 +104,6 @@ titles_from_headings:
   collections: true
 
 highlighter: rouge
-markdown: kramdown
 kramdown:
   math_engine: katex
   input: GFM
