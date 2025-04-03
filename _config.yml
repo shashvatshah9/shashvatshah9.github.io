@@ -23,7 +23,7 @@ search: true
 author:
   name: "Shashvat Shah"
   bio: "Quant | ML Engineer"
-  location: "United States"
+  location: "New York, NY"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -34,6 +34,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:shashvat911@gmail.com"
+    - label: "About me"
+      url : "/about"
 
 # Site Footer
 footer: "&copy; 2025 Shashvat Shah"
