@@ -1,10 +1,3 @@
----
-layout: single
-title: "PaperLink: AI-Powered Research Assistant"
-date: 2024-04-03
-author_profile: true
----
-
 # PaperLink: Revolutionizing Academic Research with AI
 
 PaperLink is an AI-powered research assistant that helps researchers navigate through academic papers more efficiently. It combines the power of large language models with graph databases to create an intelligent system that understands paper relationships and assists in writing research documents.
