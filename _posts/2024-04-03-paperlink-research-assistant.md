@@ -23,11 +23,7 @@ PaperLink addresses these challenges by:
 ### Knowledge Graph Implementation
 We use Neo4j to create a comprehensive graph database of research papers. Each paper is a node with properties like title, authors, and abstract. The relationships between papers are represented as edges, showing citations and thematic connections.
 
-{% include image %}
-![Neo4j Graph Visualization](/assets/images/neo4jarxiv.png "Visualization of paper connections in Neo4j")
-{% endimage %}
-
-The graph above shows how papers are interconnected through citations and shared themes, making it easier to discover related research.
+![](/assets/images/neo4jarxiv.jpg "Visualization of paper connections in Neo4j")
 
 ### Intelligent Writing Assistant
 
