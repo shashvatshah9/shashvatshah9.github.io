@@ -31,6 +31,8 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/shashvatshah9"
+    - label: "Medium"
+      url: "https://medium.com/@shashvatshah9"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:shashvat911@gmail.com"
